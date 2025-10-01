@@ -25,3 +25,8 @@ The player controls a spaceship, shoots bullets to destroy waves of aliens, and 
 1. Clone this repo:
    ```bash
    git clone https://github.com/Srushtihkalbhor-2007/Space-Invaders.git
+2.Navigate to project folder:
+   cd Space-Invaders
+3.Compile and run:
+  javac SpaceInvaders.java
+  java SpaceInvaders
